@@ -5,11 +5,9 @@ Gender inequality is a  phenomenon in which different genders are not treated eq
 The aim of this project was to analyse how gender is perceived across the United States. There are several ways in which this can be analysed and several sources from which data can be obtained. We chose to collect Social Media data and in particular, data from Twitter. 
 
 Some of the questions that we hoped to answer through this project:
-\begin{enumerate}
-    \item How is gender perceived across different locations in the United States?
-    \item What is the overall attitude towards genders in the Twitter community?
-    \item How are tweets pertaining to gender and gender inequality circulated across the community?
-    \item What is the impact of an influential user's tweet on Gender perception?
-\end{enumerate}
+1. How is gender perceived across different locations in the United States?
+2. What is the overall attitude towards genders in the Twitter community?
+3. How are tweets pertaining to gender and gender inequality circulated across the community?
+4. What is the impact of an influential user's tweet on Gender perception?
 
 We hoped to answer these questions by collecting and analysing tweets that have certain keywords in them. 
